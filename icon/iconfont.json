@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2194",
+      "name": "摄影旅行",
+      "font_class": "sheyinglvxing",
+      "unicode": "3453",
+      "unicode_decimal": 13395
+    },
+    {
+      "icon_id": "1149095",
+      "name": "美术",
+      "font_class": "meishu",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "8949037",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "14614091",
+      "name": "厨房用品-盘子",
+      "font_class": "chufangyongpin-panzi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}
